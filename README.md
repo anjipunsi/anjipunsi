@@ -1,3 +1,4 @@
+![logo](https://github.com/anjipunsi/anjipunsi/blob/main/Screenshot%202024-10-15%20135433.png)
 <h1 align="center">Hi 👋, I'm Anjali Punsi</h1>
 <h3 align="center">Data Engineer | Web Developer | Problem Solver</h3>
 
